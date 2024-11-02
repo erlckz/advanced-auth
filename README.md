@@ -1,6 +1,6 @@
 <h1 align="center">Advanced Auth</h1>
 
-https://user-images.githubusercontent.com/95107212/210668021-fd49431f-85a3-4bd7-bf9e-09639cb38922.mp4
+
 
 
 <!-- TECH STACK -->
