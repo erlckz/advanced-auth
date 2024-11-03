@@ -1,6 +1,6 @@
 <h1 align="center">Advanced Auth</h1>
 
-
+![Demo App](/frontend/public/screenshot-for-readme.png)
 
 
 <!-- TECH STACK -->
