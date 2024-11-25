@@ -55,7 +55,7 @@ Don't forget to give the project a star! Thanks again!
 ### Top contributors:
 
 <a href="https://github.com/erlckz/advanced-auth/graphs/contributors">
-  <img src="https://cdn.discordapp.com/attachments/1274864327270072432/1302042450503929856/Contribuitors.png?ex=6726ad06&is=67255b86&hm=df29d4eddf1a0d1e5d21955583868804ac3681953002ce1a7cb2b13b2d96a490&" alt="contrib.rocks image" />
+  <img src="https://cdn.discordapp.com/attachments/1274864327270072432/1302042450503929856/Contribuitors.png?ex=6744ff86&is=6743ae06&hm=71b3cd78c0b54e61bc39c2c4859c5704d9b05a4fbad872453fd295dc1e8d73d5&" alt="contrib.rocks image" />
 </a>
 
 <p align="right"></p>
