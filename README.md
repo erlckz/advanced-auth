@@ -10,33 +10,33 @@
 
 # Roadmap
 
-- [x] Backend
-    - [x] Database Setup
-    - [x] Signup Endpoint
-    - [x] Sending Verify Account Email
-    - [x] Verify Email Endpoint
-    - [x] Building a Welcome Email Template
-    - [x] Logout Endpoint
-    - [x] Login Endpoint
-    - [x] Forgot Password Endpoint
-    - [x] Reset Password Endpoint
-    - [x] Check Auth Endpoint
-- [x] Frontend
-    - [x] Signup Page UI
-    - [x] Login Page UI
-    - [x] Email Verification Page UI
-    - [x] Implementing Signup
-    - [x] Implementing Email Verification
-    - [x] Protecting Our Routes
-    - [x] Implementing Login
-    - [x] Dashboard Page
-    - [x] Implementing Forgot Password
-    - [x] Super Detailed Deployment
-- [x] Environment Variables
-    - [x] Mongo_url
-    - [x] Jwt_secret
-    - [x] Mailtrap_Toekn
-    - [x] Mailtrap_Endpoint
+- [ ] Backend
+    - [ ] Database Setup
+    - [ ] Signup Endpoint
+    - [ ] Sending Verify Account Email
+    - [ ] Verify Email Endpoint
+    - [ ] Building a Welcome Email Template
+    - [ ] Logout Endpoint
+    - [ ] Login Endpoint
+    - [ ] Forgot Password Endpoint
+    - [ ] Reset Password Endpoint
+    - [ ] Check Auth Endpoint
+- [ ] Frontend
+    - [ ] Signup Page UI
+    - [ ] Login Page UI
+    - [ ] Email Verification Page UI
+    - [ ] Implementing Signup
+    - [ ] Implementing Email Verification
+    - [ ] Protecting Our Routes
+    - [ ] Implementing Login
+    - [ ] Dashboard Page
+    - [ ] Implementing Forgot Password
+    - [ ] Super Detailed Deployment
+- [ ] Environment Variables
+    - [ ] Mongo_url
+    - [ ] Jwt_secret
+    - [ ] Mailtrap_Toekn
+    - [ ] Mailtrap_Endpoint
 
 ### Install dependencies
 
