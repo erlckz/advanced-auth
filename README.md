@@ -44,6 +44,18 @@
     - [x] Mailtrap_Toekn
     - [x] Mailtrap_Endpoint
 
+### Install dependencies
+
+```shell
+npm install
+```
+
+### Start the app
+
+```shell
+npm run start
+```
+
 #  Contributing
 
 > [!IMPORTANT]
