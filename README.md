@@ -8,34 +8,6 @@
 <img alt="Advanced Auth - Open Source Generative UI with natural language" src="public/assets/videos/synth_ui_clip1.gif" width="100%">
 </div>
 
-## 📦 What's Included?
-
-- 🔧 Backend: 
-- 🗄️ Database Setup:
-- 🔐 Signup Endpoint:
-- 📧 Sending Verify Account Email:
-- 🔍 Verify Email Endpoint:  
-- 📄 Building a Welcome Email Template: 
-- 🚪 Logout Endpoint:
-- 🔑 Login Endpoint:  
-- 🔄 Forgot Password Endpoint:  
-- 🔁 Reset Password Endpoint:  
-- ✔️ Check Auth Endpoint:  
-
-- 🌐 Frontend Setup:
-- 📋 Signup Page UI:  
-- 🔓 Login Page UI:  
-- ✅ Email Verification Page UI: 
-- 📤 Implementing Signup:
-- 📧 Implementing Email Verification:  
-- 🔒 Protecting Our Routes:
-- 🔑 Implementing Login: 
-- 🏠 Dashboard Page:
-- 🔄 Implementing Forgot Password:
-- 🚀 Super Detailed Deployment: 
-- ✅ This is a lot of work. Support my work by subscribing to the :  
-
-
 # Roadmap
 
 - [x] Environment Variables
