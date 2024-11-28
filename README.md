@@ -10,7 +10,7 @@
 
 # Roadmap
 
-- [ ] Backend
+- [ ] **BACKEND**
     - [ ] Database Setup
     - [ ] Signup Endpoint
     - [ ] Sending Verify Account Email
@@ -21,7 +21,7 @@
     - [ ] Forgot Password Endpoint
     - [ ] Reset Password Endpoint
     - [ ] Check Auth Endpoint
-- [ ] Frontend
+- [ ] **FRONTEND**
     - [ ] Signup Page UI
     - [ ] Login Page UI
     - [ ] Email Verification Page UI
@@ -32,7 +32,7 @@
     - [ ] Dashboard Page
     - [ ] Implementing Forgot Password
     - [ ] Super Detailed Deployment
-- [ ] Environment Variables
+- [ ] **ENVIRONMENT VARIABLES**
     - [ ] Mongo_url
     - [ ] Jwt_secret
     - [ ] Mailtrap_Toekn
