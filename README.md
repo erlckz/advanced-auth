@@ -1,5 +1,5 @@
 <div align="center">
-<h3>Advanced Auth</h3>
+<h3>Auth Advanced</h3>
 </div>
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
